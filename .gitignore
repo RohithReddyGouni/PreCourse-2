@@ -1,7 +1,7 @@
 # IntelliJ IDEA specific files
 .idea/
 *.iml
-.out/
+out/
 
 # Java class files
 *.class
